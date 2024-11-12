@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjith N</h1>
-<h3 align="center">CLOUD ENGINEER | AWS CLOUD | DEVOPS ENGINEER</h3>
+<h3 align="center">AWS ENGINEER | DEVOPS CLOUD | CLOUD ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theranjith&label=Profile%20views&color=0e75b6&style=flat" alt="theranjith" /> </p>
 
