@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rahulranjith96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U04vY6Ttxr43LEWQeM3O_HGS6dAo9irZ/view?usp=drive_link]https://drive.google.com/file/d/13Kj4F1GdhvMmFGrpHKVZkN4iYI_eU9XO/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/13Kj4F1GdhvMmFGrpHKVZkN4iYI_eU9XO/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
